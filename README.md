@@ -9,3 +9,5 @@ This project is based on azure data engineering. Main goal is to first ingest th
 5. Azure Data Factory (Pipeline Scheduling)
 6. Azure key- Vault
 7. Power BI (Visualizations)
+
+<img width="1011" height="466" alt="Captura de pantalla 2025-08-26 161449" src="https://github.com/user-attachments/assets/f73ed11d-8926-459c-bfe6-a4efd696ab9d" />
